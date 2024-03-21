@@ -2,8 +2,8 @@
     width: 20%;
 }
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #e2fa0b;
+    color: rgb(46, 214, 13);
     display: flex;
     justify-content: space-around;
     align-items: center;
