@@ -1,22 +1,20 @@
-h1{
-color: #696969
-text-align: center;
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
 
-body{
- background-color:rgb(211,211,211))
-}
-
-p{
-font-size: 20px;
-
-
-}
-#imagemprincipal{
-width: 600px;
-height: 600px;
-
-}
 
 
 
