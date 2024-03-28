@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #a0aab4;
+    background-color: #424E61;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -21,8 +21,6 @@
     margin: 0 16px;
     font-size: 24px;
 }
-
-
 
 
 
